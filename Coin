@@ -1,0 +1,9 @@
+constructor() public {
+    _name = {{TOKEN_NAME}};Gold Guaranteed Coin
+    _symbol = {{TOKEN_SYMBOL}};GGC
+    _decimals = {{DECIMALS}};18
+    _totalSupply = {{TOTAL_SUPPLY}};500000000000
+    _balances[msg.sender] = _totalSupply;
+
+    emit Transfer(address(0), msg.sender, _totalSupply);
+  }
