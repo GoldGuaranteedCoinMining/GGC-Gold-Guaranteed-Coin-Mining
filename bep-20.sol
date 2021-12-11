@@ -1,6 +1,6 @@
 
   pragma solidity ^0.8.4;
-  // SPDX-License-Identifier: Unlicensed
+
   interface IERC20 {
   
       function totalSupply() external view returns (uint256);
