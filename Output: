@@ -1,8 +1,0 @@
-web3.eth.accounts.create();
-{
-  address: '',
-  privateKey: '',
-  signTransaction: [Function: signTransaction],
-  sign: [Function: sign],
-  encrypt: [Function: encrypt]
-}
