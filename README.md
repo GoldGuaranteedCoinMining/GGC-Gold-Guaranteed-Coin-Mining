@@ -1,1 +1,1 @@
-GGCM Token smart contract files
+GGCM Token smart contract 
