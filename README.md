@@ -1,1 +1,1 @@
-GGCM Token smart contract 
+GGCM smart contract 
