@@ -1,1 +1,0 @@
-GGCM smart contract 
